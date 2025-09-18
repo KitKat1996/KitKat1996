@@ -11,7 +11,7 @@
 - 🌐 Focado em **Front-end moderno** com **Next.js 15, React, Expo e Solito**  
 - ☁️ Experiência em **Deploys complexos** com **Docker, AWS, Nginx e Vercel**  
 - 🏭 Co-founder da **DEX** – plataforma **Low-code** para **Indústria 4.0**  
-- 🤝 Já trabalhei com clientes como **Curso Educa, YaCash e Yah Academy**  
+- 🤝 Já trabalhei com clientes como **Curseduca, YaCash e Yah Academy**  
 
 ---
 
